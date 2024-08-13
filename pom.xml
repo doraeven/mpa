@@ -27,8 +27,8 @@
 		<mybatis.version>3.5.16</mybatis.version>
 		<mybatis-typehandlers-jsr310.version>1.0.2</mybatis-typehandlers-jsr310.version>
 		<c3p0.version>0.10.1</c3p0.version>
-		<mysql-connector-j.version>8.4.0</mysql-connector-j.version>
-		<mariadb-java-client.version>3.4.0</mariadb-java-client.version>
+		<mysql-connector-j.version>9.0.0</mysql-connector-j.version>
+		<mariadb-java-client.version>3.4.1</mariadb-java-client.version>
 		<junit-jupiter.version>5.10.3</junit-jupiter.version>
 	</properties>
 
