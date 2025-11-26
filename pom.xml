@@ -22,14 +22,14 @@
 
     <!-- properties -->
     <properties>
-        <!-- update in 20250531 -->
+        <!-- update in 20251126 -->
         <!-- dependencies version -->
         <mybatis.version>3.5.19</mybatis.version>
         <mybatis-typehandlers-jsr310.version>1.0.2</mybatis-typehandlers-jsr310.version>
-        <c3p0.version>0.11.1</c3p0.version>
-        <mysql-connector-j.version>9.3.0</mysql-connector-j.version>
-        <mariadb-java-client.version>3.5.3</mariadb-java-client.version>
-        <junit-jupiter.version>5.13.0</junit-jupiter.version>
+        <c3p0.version>0.11.2</c3p0.version>
+        <mysql-connector-j.version>9.5.0</mysql-connector-j.version>
+        <mariadb-java-client.version>3.5.6</mariadb-java-client.version>
+        <junit-jupiter.version>6.1.0-M1</junit-jupiter.version>
     </properties>
 
     <!-- dependencyManagement -->
